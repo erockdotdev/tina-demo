@@ -26,4 +26,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# TinaCMS
 .tina/__generated__
+/public/admin/assets/
